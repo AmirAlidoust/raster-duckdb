@@ -5,3 +5,7 @@ This research project is done as part of the master's curriculum of RCSE at TU I
 ## Methodology
 
 First, the ERA5 dataset from the Climate Data Store website was accessed using the CDS API client. The dataset, originally in netCDF4 format, was then converted into Zarr and Parquet formats for more efficient storage within DuckDB. Afterward, three different relational-raster mappings based on the original table, the third normal form, and region approaches were implemented to explore various data organization strategies. Finally, a set of predefined queries was created to evaluate and compare the efficiency and performance of these relational-raster mappings, with the goal of identifying the optimal strategy.
+
+## Report
+
+You can request access to the report file through the following ResearchGate link: https://bit.ly/3C0RKvS
